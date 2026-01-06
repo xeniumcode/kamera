@@ -1,0 +1,3 @@
+## Kamera
+
+A basic camera app written in python and Pyqt6
